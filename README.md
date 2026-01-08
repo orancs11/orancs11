@@ -1,4 +1,4 @@
-![ASCII Art](https://raw.githubusercontent.com/orancs11/orancs11/main/ascii_donut.mp4)
+![ASCII Art]([https://raw.githubusercontent.com/orancs11/orancs11/main/ascii_donut.mp4](https://github.com/orancs11/orancs11/blob/main/ascii_donut.mp4))
 
 
 ## 🛠️ Tech Stack
