@@ -1,5 +1,8 @@
-![ASCII Art]([https://raw.githubusercontent.com/orancs11/orancs11/main/ascii_donut.mp4](https://github.com/orancs11/orancs11/blob/main/ascii_donut.mp4))
+<div align="center">
 
+![ASCII Art](https://raw.githubusercontent.com/orancs11/orancs11/main/Gifs/Delete%20Running%20Man%20GIF%20by%20PERFECTL00P.gif)
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -36,23 +39,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 </div>
-
-## 🏆 Achievements & Stats
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=orancs11&theme=flat&no-frame=true&margin-w=15" alt="orancs11 Trophies" />
-</a>
-
-<a href="https://github.com/orancs11">
-  <img src="https://github-readme-stats.vercel.app/api?username=orancs11&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Oran's Stats" height="180"/>
-</a>
-<a href="https://github.com/orancs11">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orancs11&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
-</a>
 
 </div>
