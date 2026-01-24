@@ -2,44 +2,59 @@
 
 ![ASCII Art](https://raw.githubusercontent.com/orancs11/orancs11/main/Gifs/Delete%20Running%20Man%20GIF%20by%20PERFECTL00P.gif)
 
-</div>
+<br/>
 
-## 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
-<div align="center">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Backend Frameworks**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Machine Learning & Data Science**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools & Infrastructure**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="33%" colspan="2"><strong>Languages & Backend</strong></td>
+    <td align="center" width="33%" colspan="2"><strong>Machine Learning</strong></td>
+    <td align="center" width="33%" colspan="2"><strong>Databases & DevOps</strong></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,py,cpp,js,html,css,spring,hibernate,fastapi,django,flask&perline=4" alt="Backend Skills" />
+      </a>
+    </td>
+    <td align="center" colspan="2" valign="top">
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="ML Skills" />
+        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib" />
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn" />
+      </div>
+    </td>
+    <td align="center" colspan="2" valign="top">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,kubernetes,git&perline=3" alt="Tools" />
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="50%" colspan="3"><strong>Cloud, Messaging & APIs</strong></td>
+    <td align="center" width="50%" colspan="3"><strong>OS & Editors</strong></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3" valign="top">
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+        <a href="https://skillicons.dev">
+           <img src="https://skillicons.dev/icons?i=aws,kafka,rabbitmq,postman" alt="Cloud & Messaging" />
+        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" height="48" width="48" alt="gRPC" />
+      </div>
+    </td>
+    <td align="center" colspan="3" valign="top">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,debian,bash,vim,emacs&perline=4" alt="OS & Editors" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
