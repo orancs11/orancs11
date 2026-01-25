@@ -74,6 +74,7 @@
         <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash" />
         <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim" />
         <img src="https://skillicons.dev/icons?i=emacs" height="40" alt="emacs" />
+        <img src="https://skills.syvixor.com/api/icons?i=fedora" height="40" alt="fedora" />
       </div>
     </td>
   </tr>
