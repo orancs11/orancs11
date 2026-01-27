@@ -19,6 +19,8 @@
         <img src="https://skillicons.dev/icons?i=py" height="40" alt="python" />
         <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++" />
         <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
+        <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue" />
+        <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
         <img src="https://skillicons.dev/icons?i=html" height="40" alt="html" />
         <img src="https://skillicons.dev/icons?i=css" height="40" alt="css" />
         <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring" />
