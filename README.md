@@ -18,6 +18,7 @@
         <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" />
         <img src="https://skillicons.dev/icons?i=py" height="40" alt="python" />
         <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++" />
+        <img src="https://skillicons.dev/icons?i=cs" height="40" alt="c#" />
         <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
         <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue" />
         <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
